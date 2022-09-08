@@ -1,4 +1,4 @@
-# Bionic_hand
+# ArmOrQol
 Building bionic hand which will be controlled by EMG signals from muscles
 
 The Project ArmOrQol (Qol means hand in Kazakh) has been developed in the scope of NU Hardware Challenge in 2 months from the beginning by me and 4 fellows.
