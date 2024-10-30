@@ -1,6 +1,8 @@
 # ArmOrQol
 Building bionic hand which will be controlled by EMG signals from muscles
 
+![armorqol](https://github.com/user-attachments/assets/3f582e62-4ca3-41bd-9624-282062d78f7a)
+
 The Project ArmOrQol (Qol means hand in Kazakh) has been developed in the scope of NU Hardware Challenge in 2 months from the beginning by me and 4 fellows.
 
 All of the parts were printed in 3D printer.
@@ -13,4 +15,4 @@ All the code was written in Arduino as we have used Arduino UNO.
 
 We have demonstration videos which you can watch by following the link below.
 
-Link: https://drive.google.com/drive/folders/188gB4FMgER8Nm0Qk2z420E-kEQUjXu8W?usp=sharing 
+Link: [https://drive.google.com/drive/folders/188gB4FMgER8Nm0Qk2z420E-kEQUjXu8W?usp=sharing ](https://drive.google.com/drive/folders/1mtHcwznhMK-tmhZp8dDZWA_9x8-Ll3cm?usp=sharing)
